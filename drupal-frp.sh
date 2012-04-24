@@ -9,3 +9,6 @@ chmod 770 sites/default/private;
 mkdir sites/all/modules;
 mkdir sites/all/modules/contrib;
 mkdir sites/all/modules/custom;
+
+mkdir sites/all/themes;
+mkdir sites/all/themes/custom;
